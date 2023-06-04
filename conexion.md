@@ -1,3 +1,10 @@
+previa instalación:
+```
+pip install flask
+pip install pymysql
+pip install -U Flask-SQLAlchemy
+```
+
 test de conexión con la DB en mysql
 ```python
 from flask import Flask
